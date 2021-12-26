@@ -1,0 +1,28 @@
+<html>
+   <head>
+       <title>Css Introduction</title>
+       <style>
+           h2 {
+               color: red;
+           }
+
+           p {
+               color: green;
+           }
+       </style>
+   </head>
+
+   <body>
+      <h2>HTML</h2>
+      <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident aperiam ipsam corporis vero mollitia repudiandae, distinctio, quaerat suscipit molestiae consectetur ut laborum aut neque at, consequuntur nisi porro vitae cumque esse itaque architecto perspiciatis consequatur. Voluptatem cumque harum expedita. Maiores voluptas cupiditate blanditiis quisquam. Sequi ipsa porro praesentium expedita aliquid?
+      </p>
+
+      <h2>CSS</h2>
+      <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia in perspiciatis modi neque, exercitationem reprehenderit nesciunt sint facilis architecto iste accusantium voluptatem dolores voluptate dolorum excepturi, quasi, quod doloribus eos vitae hic beatae quidem distinctio quam. Ipsum qui itaque libero quia beatae. Maxime officiis non magni et. Labore illum mollitia reiciendis molestias, non ad voluptatem provident, aliquam placeat nesciunt vero eligendi. Deserunt corporis ipsa ab? Dicta fugiat distinctio blanditiis architecto.
+      </p>
+
+      <h2>JS</h2>
+   </body>
+</html>
